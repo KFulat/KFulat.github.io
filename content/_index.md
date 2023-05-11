@@ -18,18 +18,14 @@ sections:
         - name: Fortran
           description: advanced
           icon: Fortran
-          icon_pack: icon
+          icon_pack: custom
         - name: Python
-          description:
+          description: advanced
           icon: Python
           icon_pack: custom
         - name: PIC simulations
-          description:
+          description: 5 years experience
           icon: chart-network
-          icon_pack: fas
-        - name: Data analysis
-          description:
-          icon: chart-scatter
           icon_pack: fas
   - block: experience
     content:
