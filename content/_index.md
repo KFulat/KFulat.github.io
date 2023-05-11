@@ -15,17 +15,21 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
+        - name: Fortran
+          description:
+          icon: Fortran
           icon_pack: fab
-        - name: Statistics
+        - name: Python
           description: 100%
-          icon: chart-line
+          icon: python
           icon_pack: fas
-        - name: Photography
+        - name: PIC simulations
+          description: 100%
+          icon: chart-network
+          icon_pack: fas
+        - name: Data analysis
           description: 10%
-          icon: camera-retro
+          icon: chart-scatter
           icon_pack: fas
   - block: experience
     content:
@@ -60,7 +64,16 @@ sections:
           description: |2-
               * Investigation of electron acceleartion at shock waves of merging galaxy clusters, supervisor: Prof. Jacek Niemiec
               * Funded by National Science Center Poland
-
+        - title: Intern
+          company: European Space Agency
+          company_url: ''
+          company_logo: ESA
+          location: Spain
+          date_start: '2020-06-01'
+          date_end: '2020-09-01'
+          description: |2-
+              * Characterising suprathermal electrons at interplanetary shocks, supervisor: Dr. Georgina Graham
+              * Done remotely due to COVID-19
     design:
       columns: '2'
   - block: accomplishments
