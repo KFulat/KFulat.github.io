@@ -18,7 +18,7 @@ sections:
         - name: Fortran
           description: advanced
           icon: Fortran
-          icon_pack: custom
+          icon_pack: icon
         - name: Python
           description:
           icon: Python
