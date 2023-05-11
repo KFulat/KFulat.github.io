@@ -44,20 +44,23 @@ sections:
           company_url: ''
           company_logo: UniPotsdam
           location: Germany
-          date_start: '2021-07-01'
+          date_start: '2021-07'
           date_end: ''
           description: |2-
               * Member of Theoretical Astroparticle Physics Group, supervisor: Prof. Martin Pohl, collaboration with THAT group in DESY, Zeuthen
               * Investigation of plasma shock waves propagating in turbulent medium via numerical simulations
               * Funded by DFG German Research Foundation
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Intern
+          company: The Henryk Niewodniczanski Institute of Nuclear Physics
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: ifj
+          location: Poland
+          date_start: '2019-05'
+          date_end: '2021-11'
+          description: |2-
+              * Investigation of electron acceleartion at shock waves of merging galaxy clusters, supervisor: Prof. Jacek Niemiec
+              * Funded by National Science Center Poland
+
     design:
       columns: '2'
   - block: accomplishments
