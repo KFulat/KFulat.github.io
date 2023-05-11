@@ -44,7 +44,7 @@ sections:
           company_url: ''
           company_logo: UniPotsdam
           location: Germany
-          date_start: '2021-07'
+          date_start: '2021-07-01'
           date_end: ''
           description: |2-
               * Member of Theoretical Astroparticle Physics Group, supervisor: Prof. Martin Pohl, collaboration with THAT group in DESY, Zeuthen
@@ -55,8 +55,8 @@ sections:
           company_url: ''
           company_logo: ifj
           location: Poland
-          date_start: '2019-05'
-          date_end: '2021-11'
+          date_start: '2019-05-01'
+          date_end: '2021-11-15'
           description: |2-
               * Investigation of electron acceleartion at shock waves of merging galaxy clusters, supervisor: Prof. Jacek Niemiec
               * Funded by National Science Center Poland
