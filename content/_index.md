@@ -29,7 +29,7 @@ sections:
           icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Research experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -39,19 +39,17 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: PhD candidate
+          company: Institute of Physics and Astronomy, University of Potsdam
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: UniPotsdam
+          location: Germany
+          date_start: '2021-07-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * Member of Theoretical Astroparticle Physics Group, supervisor: Prof. Martin Pohl, collaboration with THAT group in DESY, Zeuthen
+              * Investigation of plasma shock waves propagating in turbulent medium via numerical simulations
+              * Funded by DFG German Research Foundation
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
