@@ -18,17 +18,17 @@ sections:
         - name: Fortran
           description:
           icon: Fortran
-          icon_pack: fab
+          icon_pack: custom
         - name: Python
-          description: 100%
-          icon: python
-          icon_pack: fas
+          description:
+          icon: Python
+          icon_pack: custom
         - name: PIC simulations
-          description: 100%
+          description:
           icon: chart-network
           icon_pack: fas
         - name: Data analysis
-          description: 10%
+          description:
           icon: chart-scatter
           icon_pack: fas
   - block: experience
