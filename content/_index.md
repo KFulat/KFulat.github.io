@@ -16,7 +16,7 @@ sections:
       title: Skills
       items:
         - name: Fortran
-          description:
+          description: advanced
           icon: Fortran
           icon_pack: custom
         - name: Python
