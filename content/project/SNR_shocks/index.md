@@ -9,7 +9,7 @@ date: '2022-05-11T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Vortex structures at perpendicular shock
+  caption: 'SN 1572, credit: X-ray: NASA/CXC/Rutgers/K.Eriksen et al.; Optical: DSS'
   focal_point: Smart
 
 links:

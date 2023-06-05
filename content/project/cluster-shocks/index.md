@@ -9,7 +9,7 @@ date: '2022-05-11T00:00:00Z'
 external_link: ''
 
 image:
-  caption: The upstream electron energy spectrum
+  caption: 'MACS J0717, credit: X-ray: NASA/CXC/SAO/G.Ogrean et al.; Optical: NASA/STScI; Radio: NRAO/AUI/NSF'
   focal_point: Smart
 
 links:
