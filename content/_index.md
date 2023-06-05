@@ -70,8 +70,8 @@ sections:
           icon_pack: custom
         - name: PIC simulations
           description: 5 years experience
-          icon: chart-network
-          icon_pack: fas
+          icon: PIC_icon
+          icon_pack: custom
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
