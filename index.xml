@@ -21,7 +21,7 @@ lence at the shock, that includes the shock surface rippling. We study the role 
 the electron pre-acceleration to DSA. The main tool used in this study is a numerical technique
 of particle-in-cell (PIC) simulations, which is an ab-intitio method for collisionless plasma.&lt;/p></description></item><item><title>Suprathermal electrons at interplanetary shocks</title><link>https://KFulat.github.io/project/electrons/</link><pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/project/electrons/</guid><description>&lt;p>The stream of particles known as the solar wind spreads out within the heliosphere, creating shocks. These waves are collisionless, meaning that energy transfer between particles is via collective particle-waves interactions instead of binary Coulomb collisions. Interplanetary shocks (IP) originate from co-rotating interaction regions, areas where the fast solar wind rams into the slow one, and from coronal mass ejections, which are huge releases of solar plasma. The distribution function of the solar wind electrons is strongly influenced by these shocks.&lt;/p>
 &lt;p>Suprathermal electrons have energies of about 70 eV to 2 keV and they follow the interplanetary magnetic field line as they propagate through the heliosphere. This means that their pitch-angle distributions contain information about the magnetic topology of the solar wind.&lt;/p>
-&lt;p>The project aimed to characterise and examine suprathermal electron populations associated with IP shocks. We used electron angle-angle distributions, measured in situ by the Cluster spacecrafts, during normal solar wind conditions, in the presence of whistler waves and during events associated with IP shocks. The shape of the distributions was examined using spectra of fitted spherical harmonics. This method is a quick way to characterise observed spectra and can be used for Solar Orbiter data, allowing us to study the evolution of the distributions during the propagation at an IP shock.&lt;/p></description></item><item><title>An example conference paper</title><link>https://KFulat.github.io/publication/conference-paper/</link><pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/publication/conference-paper/</guid><description>&lt;!--
+&lt;p>The project aimed to characterise and examine suprathermal electron populations associated with IP shocks. We used electron angle-angle distributions, measured in situ by the Cluster spacecrafts, during normal solar wind conditions, in the presence of whistler waves and during events associated with IP shocks. The shape of the distributions was examined using spectra of fitted spherical harmonics. This method is a quick way to characterise observed spectra and can be used for Solar Orbiter data, allowing us to study the evolution of the distributions during the propagation at an IP shock.&lt;/p></description></item><item><title>Electron Pre-acceleration Through Stochastic Shock Drift Acceleration at Intracluster Shocks</title><link>https://KFulat.github.io/publication/niemiec_2022_pos/</link><pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/publication/niemiec_2022_pos/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -179,7 +179,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-163587924" class="chart">&lt;/div>
+&lt;div id="chart-963872514" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -188,7 +188,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-163587924', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-963872514', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
