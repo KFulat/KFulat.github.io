@@ -9,7 +9,7 @@ date: '2022-06-08T00:00:00Z'
 external_link: ''
 
 image:
-  caption: 'Artist impression of the solar wind and magnetic field interactions, credit: NASA's Scientific Visualization Studio'
+  caption: 'Artist impression of the solar wind and magnetic field interactions'
   focal_point: Smart
 
 links:
