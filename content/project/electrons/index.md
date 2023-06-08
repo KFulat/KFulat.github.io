@@ -18,7 +18,7 @@ links:
   #   name: Follow
   #   url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: 'poster.pdf'
+url_pdf: 'content/project/electrons/poster.pdf'
 url_slides: ''
 url_video: ''
 
