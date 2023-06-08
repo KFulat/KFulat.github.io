@@ -3,7 +3,9 @@ title: Suprathermal electrons at interplanetary shocks
 summary: How IP shocks affect the electron distribution function in the solar wind?
 tags:
   - shocks
-date: '2022-06-08T00:00:00Z'
+  - space physics
+  - electrons
+date: '2022-06-06T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

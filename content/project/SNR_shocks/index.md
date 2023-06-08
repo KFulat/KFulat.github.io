@@ -3,7 +3,7 @@ title: SNRs shock waves with turbulent upstream medium
 summary: How pre-existing turbulence influence physics of SNRs shocks and efficiency of electron acceleration?
 tags:
   - shocks
-date: '2022-05-11T00:00:00Z'
+date: '2022-06-08T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

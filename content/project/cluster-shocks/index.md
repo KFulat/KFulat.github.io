@@ -3,7 +3,7 @@ title: Electron acceleration at shocks in merging galaxy clusters
 summary: Study of the conditions for effective electron acceleration at low-Mach-number shocks
 tags:
   - shocks
-date: '2022-05-11T00:00:00Z'
+date: '2022-06-07T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
