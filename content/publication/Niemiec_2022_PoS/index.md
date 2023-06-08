@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Electron Pre-acceleration Through Stochastic Shock Drift Acceleration at Intracluster Shocks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
