@@ -5,19 +5,25 @@ title: 'An example conference paper'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Jacek Niemiec
+  - Oleh Kobzar
+  - Karol Fulat
+  - Martin Pohl
+  - Takanobu Amano
+  - Masahito Hoshino
+  - Schuichi Matsukiyo
+  - Yosuke Matsumoto
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2022-03-18T00:00:00Z'
+doi: '10.22323/1.395.0477'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-03-18T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,13 +32,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Proceedings of Science*
+publication_short: In *PoS*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Radio and X-ray observations of radio relics indicate acceleration of relativistic electrons at merger shocks in galaxy clusters. These large-scale shocks can also be sites of ultra-high-energy cosmic ray production. It is assumed that diffusive shock acceleration (DSA) produces synchrotron-radiating electrons but the process of electron pre-acceleration from thermal to supra-thermal energies is poorly known. Using large-scale fully-kinetic two-dimensional particle-in-cell (PIC) simulations of a quasi-perpendicular subluminal shock with low sonic Mach number ($M_s=3$) and propagating in hot intracluster medium with plasma beta $\beta=5$ we have recently demonstrated that the main electron pre-acceleration mechanism is stochastic shock-drift acceleration (SSDA). In this process electrons are confined at the shock by pitch-angle scattering off turbulence and gain energy while drifting along the motional electric field. We showed that multi-scale magnetic turbulence, including ion-scale shock rippling modes, is essential for electron energization. This turbulence is driven by effective ion and electron temperature anisotropies in the entire shock transition. Wide-energy non-thermal electron distributions are formed both upstream and downstream of the shock and the maximum energy of the electrons is sufficient for their injection into DSA. Here we report on our new PIC simulation studies of SSDA process in a range of plasma beta ($\beta$=5−30) and subluminal shock obliquity angles. We show that SSDA persists in facilitating the electron injection in rippled shocks. We also present how the SSDA efficiency vary with intracluster medium and shock parameters.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: The role of the shock rippling on the electron injection into the diffusive shock acceleration 
 
 tags: []
 
@@ -44,19 +50,19 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
+url_pdf: 'https://pos.sissa.it/395/477/pdf'
+# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_poster: ''
 url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+# url_slides: ''
+# url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Structure of a rippled shock'
   focal_point: ''
   preview_only: false
 
@@ -66,17 +72,17 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  - cluster-shocks
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -84,4 +90,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
