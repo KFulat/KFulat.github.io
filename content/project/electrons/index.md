@@ -18,7 +18,7 @@ links:
   #   name: Follow
   #   url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: ''
+url_pdf: 'poster.pdf'
 url_slides: ''
 url_video: ''
 
@@ -27,7 +27,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 The stream of particles known as the solar wind spreads out within the heliosphere, creating shocks. These waves are collisionless, meaning that energy transfer between particles is via collective particle-waves interactions instead of binary Coulomb collisions. Interplanetary shocks (IP) originate from co-rotating interaction regions, areas where the fast solar wind rams into the slow one, and from coronal mass ejections, which are huge releases of solar plasma. The distribution function of the solar wind electrons is strongly influenced by these shocks.
