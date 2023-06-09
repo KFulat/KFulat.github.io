@@ -30,6 +30,7 @@ url_video: ''
 slides: example
 ---
 
+<div style='text-align: justify;'>
 The origin and acceleration mechanisms of cosmic rays, the energetic charged particles that reach the Earth's surface, is still an open question in modern astrophysics. Observations of radio emission, nonthermal X-rays and high-energy gamma-rays from supernova remnants (SNR) indicate the efficient electron acceleration there. The particles are though to gain energy at collisionless and non-relativistic shock waves that form during supernova explosions.
 
 The widely known mechanism of particle acceleration at shocks is Diffusive Shock Acceleration, in which particles gain energy by crossing a shock multiple times. However, the particles must have initial energy to be able to participate in this process. This means that electrons must have highly suprathermal energy, which implies the need for very efficient pre-acceleration, known as the electron injection problem.
@@ -37,3 +38,4 @@ The widely known mechanism of particle acceleration at shocks is Diffusive Shock
 Studies of complex particle dynamics in plasma on an electron kinetic scale requires the use of the particle-in-cell approach: first-principles simulations for collisionless plasma. Even with the power of modern supercomputers, these numerical experiments are computationally demanding.
 
 Currently, our project consists of the following parts: understanding the electron injection at oblique SNR shocks and investigating the influence of pre-existing turbulence on the electron acceleration.
+</div>
