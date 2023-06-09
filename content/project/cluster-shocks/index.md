@@ -27,13 +27,13 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 <div style='text-align: justify;'>
-Radio synchrotron emission in radio relics is a signature of relativistic electrons. They are thought to be accelerated at large-scale shocks of merging galaxy clusters, and are also considered to be possible sources of ultra-high-energy cosmic rays: they can have energies exceeding $E>10^{18}$ eV.
+Radio synchrotron emission in radio relics is a signature of relativistic electrons. They are thought to be accelerated at large-scale shocks of merging galaxy clusters, and are also considered to be possible sources of ultra-high-energy cosmic rays: they can have energies exceeding $E>10^{18}\text{eV}$.\
 
-Particles are accelerated at shocks via Diffusive Shock Acceleration (DSA), gaining energy while crossing a shock multiple times. This process works only from a certain initial energy, which is a more important constraint for electrons than for ions due to their smaller masses. This is known as the electron injection problem and it is a missing puzzle to complete the picture of DSA.
+Particles are accelerated at shocks via Diffusive Shock Acceleration (DSA), gaining energy while crossing a shock multiple times. This process works only from a certain initial energy, which is a more important constraint for electrons than for ions due to their smaller masses. This is known as the electron injection problem and it is a missing puzzle to complete the picture of DSA.\
 
 The goal of this project is to study the electron acceleration conditions at galaxy clusters shock via particle-in-cell simulations. This is the ab-intitio method for kinetic plasma theory, which resolves the microphysics of collisionless shocks. Current studies focus on Stochastic Shock Drift Acceleration (SSDA): an efficient mechanism of electron pre-acceleration. It requires the presence of multiscale turbulence in the shock transition.
 </div>
