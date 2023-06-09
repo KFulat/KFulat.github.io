@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Karol Fulat</title><link>https://KFulat.github.io/</link><atom:link href="https://KFulat.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Karol Fulat</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://KFulat.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Karol Fulat</title><link>https://KFulat.github.io/</link></image><item><title>Example Talk</title><link>https://KFulat.github.io/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://KFulat.github.io/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Karol Fulat</title><link>https://KFulat.github.io/</link><atom:link href="https://KFulat.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Karol Fulat</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://KFulat.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Karol Fulat</title><link>https://KFulat.github.io/</link></image><item><title>PIC simulations of SNR’s shock waves with a turbulent upstream medium</title><link>https://KFulat.github.io/talk/pic-simulations-of-snrs-shock-waves-with-a-turbulent-upstream-medium/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://KFulat.github.io/talk/pic-simulations-of-snrs-shock-waves-with-a-turbulent-upstream-medium/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
 &lt;div>
 Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
 &lt;/div>
 &lt;/div>
-&lt;p>Slides can be added in a few ways:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Create&lt;/strong> slides using Wowchemy&amp;rsquo;s &lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">&lt;em>Slides&lt;/em>&lt;/a> feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
-&lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
-&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
-&lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Kinetic simulations of perpendicular supernova remnant shocks propagating in turbulent medium</title><link>https://KFulat.github.io/publication/fulat_2023_apj/</link><pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/publication/fulat_2023_apj/</guid><description>&lt;!--
+Slides can be added in a few ways:
+- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Kinetic simulations of perpendicular supernova remnant shocks propagating in turbulent medium</title><link>https://KFulat.github.io/publication/fulat_2023_apj/</link><pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/publication/fulat_2023_apj/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
@@ -209,7 +208,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-534296871" class="chart">&lt;/div>
+&lt;div id="chart-983274651" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -218,7 +217,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-534296871', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-983274651', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
