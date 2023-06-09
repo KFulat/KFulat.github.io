@@ -7,7 +7,7 @@ title: 'Electron Pre-acceleration Through Stochastic Shock Drift Acceleration at
 authors:
   - Jacek Niemiec
   - Oleh Kobzar
-  - Karol Fulat
+  - admin
   - Martin Pohl
   - Takanobu Amano
   - Masahito Hoshino
