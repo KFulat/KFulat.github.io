@@ -6,11 +6,11 @@ event_url: https://indico.icc.ub.edu/event/46/
 
 location: Universitat de Barcelona
 address:
-  street: ""
-  city: Barcelona
-  region: ""
-  postcode: ""
-  country: Spain
+  # street: ""
+  city: Barcelona, Spain
+  # region: ""
+  # postcode: ""
+  # country: Spain
 
 summary: ""
 abstract: 'Investigation of astrophysical shocks has major importance in understanding physics of the cosmic rays acceleration. Electrons to be accelerated at shocks must have a suprathermal energy, which implies that they should undergo some pre-acceleration mechanism. Many numerical studies examined possible injection mechanisms, however, most of them considered homogenous upstream medium, which is an unreal assumption for astrophysical environments. We will to investigate electron acceleration at high Mach number and low plasma beta shocks using 2D3V particle-in-cell simulations with a turbulent upstream medium. Here, we discuss the method of generation of the compression-dominated turbulence along with its insertion into a shock simulation. The turbulence’s parameters represent the high Mach number and low plasma beta regime. Moreover, it is sufficiently long-living, and the presented matching method allows to insert it quasi-seamlessly into a shock simulation.'
