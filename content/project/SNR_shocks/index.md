@@ -1,8 +1,10 @@
 ---
-title: SNRs shock waves with turbulent upstream medium
-summary: How pre-existing turbulence influence physics of SNRs shocks and efficiency of electron acceleration?
+title: Electron acceleration at shocks in supernova remnants
+summary: How electrons are energized at oblique shocks and how pre-existing turbulence influence conditions of the acceleration?
 tags:
   - shocks
+  - SNR
+  - acceleration
 date: '2022-06-08T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
