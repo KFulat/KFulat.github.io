@@ -74,5 +74,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD candidate in Theoretical Astroparticle Physics at the University of Potsdam. My research interests include particle acceleration mechanisms in astrophysics and numerical plasma simulations.
+I am a PhD candidate in Theoretical Astroparticle Physics at the University of Potsdam, Germany. My main research interests revolve around investigating particle acceleration at astrophysical shock waves. I employ fully kinetic plasma simulations to explore the microphysics of these complex processes.
 {style="text-align: justify;"}
