@@ -47,7 +47,7 @@ outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
 imaging:
-  resampleFilter: box
+  resampleFilter: CatmullRom
   quality: 100
   anchor: smart
 timeout: 600000
