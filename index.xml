@@ -50,7 +50,17 @@ Radio relics are elongated synchrotron radio sources found in the outskirts of g
 The stream of particles known as the solar wind spreads out within the heliosphere, creating shocks. These waves are collisionless, meaning that energy transfer between particles is via collective particle-waves interactions instead of binary Coulomb collisions. Interplanetary shocks (IP) originate from co-rotating interaction regions, areas where the fast solar wind rams into the slow one, and from coronal mass ejections, which are huge releases of solar plasma. The distribution function of the solar wind electrons is strongly influenced by these shocks.&lt;br/>&lt;br/>
 &lt;p>Suprathermal electrons have energies of about 70 eV to 2 keV and they follow the interplanetary magnetic field line as they propagate through the heliosphere. This means that their pitch-angle distributions contain information about the magnetic topology of the solar wind.&lt;br/>&lt;br/>&lt;/p>
 &lt;p>The project aimed to characterise and examine suprathermal electron populations associated with IP shocks. We used electron angle-angle distributions, measured in situ by the Cluster spacecrafts, during normal solar wind conditions, in the presence of whistler waves and during events associated with IP shocks. The shape of the distributions was examined using spectra of fitted spherical harmonics. This method is a quick way to characterise observed spectra and can be used for Solar Orbiter data, allowing us to study the evolution of the distributions during the propagation at an IP shock.&lt;/p>
-&lt;/div></description></item><item><title>Electron Pre-acceleration Through Stochastic Shock Drift Acceleration at Intracluster Shocks</title><link>https://KFulat.github.io/publication/niemiec_2022_pos/</link><pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/publication/niemiec_2022_pos/</guid><description>&lt;!--
+&lt;/div></description></item><item><title>PIC simulations of SNR shock waves with a turbulent upstream medium</title><link>https://KFulat.github.io/talk/pic-simulations-of-snr-shock-waves-with-a-turbulent-upstream-medium/</link><pubDate>Tue, 24 May 2022 17:30:00 +0000</pubDate><guid>https://KFulat.github.io/talk/pic-simulations-of-snr-shock-waves-with-a-turbulent-upstream-medium/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+Slides can be added in a few ways:
+- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Electron Pre-acceleration Through Stochastic Shock Drift Acceleration at Intracluster Shocks</title><link>https://KFulat.github.io/publication/niemiec_2022_pos/</link><pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/publication/niemiec_2022_pos/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
