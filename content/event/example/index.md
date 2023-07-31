@@ -1,5 +1,5 @@
 ---
-title: PIC simulations of SNR’s shock waves with a turbulent upstream medium
+title: PIC simulations of SNR shock waves with a turbulent upstream medium
 
 event: Gamma 2022
 event_url: https://indico.icc.ub.edu/event/46/
