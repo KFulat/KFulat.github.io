@@ -40,7 +40,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://iopscience.iop.org/article/10.3847/1538-4357/acaec8/pdf
+# url_pdf: https://iopscience.iop.org/article/10.3847/1538-4357/acaec8/pdf
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''

@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.actaphys.uj.edu.pl/fulltext?series=Sup&vol=15&aid=3-A19'
+# url_pdf: 'https://www.actaphys.uj.edu.pl/fulltext?series=Sup&vol=15&aid=3-A19'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
