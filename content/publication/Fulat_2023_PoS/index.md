@@ -16,11 +16,11 @@ publishDate: "2023-06-08T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: In *Proceedings of Science*
+publication_short: In *PoS*
 
 abstract: Investigating shock wave properties in supernova remnants (SNRs) is of major importance in understanding the origin and acceleration of cosmic rays. For Diffusive Shock Acceleration electrons must have a highly suprathermal energy, implying a need for very efficient pre-acceleration. Most published studies consider a homogenous upstream medium, which is an unrealistic assumption for astrophysical environments. Using 2D3V particle-in-cell simulations, we investigate electron acceleration and heating processes at high Mach-number shocks with a turbulent upstream medium. For this purpose slabs of plasma with compressive turbulence are separately simulated and then inserted into shock simulations, which requires matching of plasma slabs at the interface. Using a novel technique of matching electromagnetic fields and currents, we perform simulations of perpendicular shocks setting different intensities of density fluctuations (below 10%) in the upstream. We explore the impact of the fluctuations on electron heating, the dynamics of upstream electrons, and the driving of plasma instabilities. Our results indicate that while the presence of the turbulence enhances variations in the upstream magnetic field, their levels remain too low to influence significantly the behavior of electrons at perpendicular shocks. We extend our investigations to oblique shocks with a turbulent upstream medium, and discuss our latest results.
 
