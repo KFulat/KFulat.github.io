@@ -1,12 +1,12 @@
 ---
-title: "Kinetic simulations of perpendicular supernova remnant shocks propagating in turbulent medium"
+title: "Kinetic Simulations of Nonrelativistic High-mach-number Perpendicular Shocks Propagating in a Turbulent Medium"
 authors:
 - admin
 - Artem Bohdan
 - Gabriel Torralba Paz
 - Martin Pohl
-date: "2023-06-08T00:00:00Z"
-doi: ""
+date: "2023-12-01T00:00:00Z"
+doi: "https://doi.org/10.3847/1538-4357/ad04dc"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-06-08T00:00:00Z"
@@ -15,13 +15,13 @@ publishDate: "2023-06-08T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted to the Astrophysical Journal"
+publication: "The Astrophysical Journal"
 publication_short: "ApJ"
 
-abstract: Investigating shock wave properties in supernova remnants is important for understanding the origin and acceleration of cosmic rays. For Diffusive Shock Acceleration electrons must have a highly suprathermal energy, implying a need for very efficient pre-acceleration. Most published studies consider shocks propagating through homogeneous plasma, which is an unrealistic assumption for astrophysical environments. Using 2D3V particle-in-cell simulations, we investigate electron acceleration and heating processes at non-relativistic high-Mach-number shocks in electron-ion plasma with a turbulent upstream medium. For this purpose slabs of plasma with compressive turbulence are separately simulated and then inserted into shock simulations, which requires matching of plasma slabs at the interface. Using a novel technique of matching electromagnetic fields and currents, we perform simulations of perpendicular shocks setting different intensities of density fluctuations below 10% in the upstream. We explore the impact of the fluctuations on electron heating, the dynamics of upstream electrons, and the driving of plasma instabilities. Our results indicate that while the presence of the turbulence enhances variations in the upstream magnetic field, their levels remain too low to influence significantly the behaviour of electrons at perpendicular shocks.
+abstract: Strong nonrelativistic shocks are known to accelerate particles up to relativistic energies. However, for diffusive shock acceleration, electrons must have a highly suprathermal energy, implying the need for very efﬁcient preacceleration. Most published studies consider shocks propagating through homogeneous plasma, which is an unrealistic assumption for astrophysical environments. Using 2D3V particle-in-cell simulations, we investigate electron acceleration and heating processes at nonrelativistic high-Mach-number shocks in electron-ion plasma with a turbulent upstream medium. For this purpose, slabs of plasma with compressive turbulence are simulated separately and then inserted into shock simulations, which require matching of the plasma slabs at the interface. Using a novel procedure of matching electromagnetic ﬁelds and currents, we perform simulations of perpendicular shocks setting different intensities of density ﬂuctuations (<10%) in the upstream region. The new simulation technique provides a framework for studying shocks propagating in turbulent media. We explore the impact of the ﬂuctuations on electron heating, the dynamics of upstream electrons, and the driving of plasma instabilities. Our results indicate that while the presence of turbulence enhances variations in the upstream magnetic ﬁeld, their levels remain too low to signiﬁcantly inﬂuence the behavior of electrons at perpendicular shocks.
 
 # Summary. An optional shortened abstract.
 summary: "Influence of pre-existing density fluctuations in the upstream on physics of perpendicular SNR shocks: shock properties, modification of instabilities, change of electron dynamics."
@@ -30,7 +30,7 @@ tags:
 - shocks
 - acceleration
 - astrophysics
-featured: false
+featured: true
 
 links:
 # - name: Custom Link

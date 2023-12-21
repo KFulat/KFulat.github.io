@@ -31,7 +31,7 @@ tags:
 - shocks
 - acceleration
 - astrophysics
-featured: true
+featured: false
 
 links:
 # - name: Custom Link

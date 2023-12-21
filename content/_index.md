@@ -34,7 +34,7 @@ sections:
               * Member of Theoretical Astroparticle Physics Group, supervisor: Prof. Martin Pohl, collaboration with THAT group in DESY, Zeuthen
               * Investigation of plasma shock waves propagating in turbulent medium via numerical simulations
               * Funded by DFG German Research Foundation
-        - title: Intern
+        - title: Research scholarship
           company: The Henryk Niewodniczanski Institute of Nuclear Physics
           company_url: ''
           company_logo: ifj
