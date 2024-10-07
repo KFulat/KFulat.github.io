@@ -10,7 +10,20 @@
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://docs.hugoblox.com/reference/markdown/">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://docs.hugoblox.com/reference/markdown/">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Projects</title><link>https://KFulat.github.io/projects/</link><pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/projects/</guid><description/></item><item><title>🎉 Easily create your own simple yet highly customizable blog</title><link>https://KFulat.github.io/post/get-started/</link><pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/post/get-started/</guid><description>&lt;p>Welcome 👋&lt;/p>
+&lt;p>Further event details, including &lt;a href="https://docs.hugoblox.com/reference/markdown/">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Projects</title><link>https://KFulat.github.io/projects/</link><pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/projects/</guid><description/></item><item><title>Kinetic Simulations of Nonrelativistic High-mach-number Perpendicular Shocks Propagating in a Turbulent Medium</title><link>https://KFulat.github.io/publication/fulat_2023_apj/</link><pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/publication/fulat_2023_apj/</guid><description>&lt;!--
+&lt;div class="flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900">
+&lt;span class="pr-3 pt-1 text-primary-600 dark:text-primary-300">
+&lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z"/>&lt;/svg>
+&lt;/span>
+&lt;span class="dark:text-neutral-300">Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span>
+&lt;/div>
+&lt;div class="flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900">
+&lt;span class="pr-3 pt-1 text-primary-600 dark:text-primary-300">
+&lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z"/>&lt;/svg>
+&lt;/span>
+&lt;span class="dark:text-neutral-300">Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.&lt;/span>
+&lt;/div>
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --></description></item><item><title>🎉 Easily create your own simple yet highly customizable blog</title><link>https://KFulat.github.io/post/get-started/</link><pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/post/get-started/</guid><description>&lt;p>Welcome 👋&lt;/p>
 &lt;details class="print:hidden xl:hidden" open>
 &lt;summary>Table of Contents&lt;/summary>
 &lt;div class="text-sm">
@@ -83,7 +96,7 @@
 &lt;p>&lt;a href="https://docs.hugoblox.com/getting-started/customize/">Choose a stunning &lt;strong>theme&lt;/strong> and &lt;strong>font&lt;/strong>&lt;/a> for your site. Themes are fully customizable.&lt;/p>
 &lt;h2 id="license">License&lt;/h2>
 &lt;p>Copyright 2016-present &lt;a href="https://georgecushen.com">George Cushen&lt;/a>.&lt;/p>
-&lt;p>Released under the &lt;a href="https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md">MIT&lt;/a> license.&lt;/p></description></item><item><title>Pandas</title><link>https://KFulat.github.io/project/pandas/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/project/pandas/</guid><description>&lt;p>Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p></description></item><item><title>PyTorch</title><link>https://KFulat.github.io/project/pytorch/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/project/pytorch/</guid><description>&lt;p>PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p></description></item><item><title>scikit-learn</title><link>https://KFulat.github.io/project/scikit/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/project/scikit/</guid><description>&lt;p>scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p></description></item><item><title>🧠 Sharpen your thinking with a second brain</title><link>https://KFulat.github.io/post/second-brain/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/post/second-brain/</guid><description>&lt;p>Create a personal knowledge base and share your knowledge with your peers.&lt;/p>
+&lt;p>Released under the &lt;a href="https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md">MIT&lt;/a> license.&lt;/p></description></item><item><title>🧠 Sharpen your thinking with a second brain</title><link>https://KFulat.github.io/post/second-brain/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/post/second-brain/</guid><description>&lt;p>Create a personal knowledge base and share your knowledge with your peers.&lt;/p>
 &lt;p>Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p>
 &lt;p>Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p>
 &lt;p>Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.&lt;/p>
@@ -184,7 +197,7 @@ console.log('code block');
 &lt;p>Hugo Blox supports the popular &lt;a href="https://plot.ly/">Plotly&lt;/a> format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-971842563" class="chart">&lt;/div>
+&lt;div id="chart-923461875" class="chart">&lt;/div>
 &lt;script>
 async function fetchChartJSON() {
 console.debug('Hugo Blox fetching chart JSON...')
@@ -200,7 +213,7 @@ return;
 clearInterval( a );
 fetchChartJSON().then(chart => {
 console.debug('Plotting chart...')
-window.Plotly.newPlot('chart-971842563', chart.data, chart.layout, {responsive: true});
+window.Plotly.newPlot('chart-923461875', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -645,14 +658,26 @@ Parallel 4 : des6, after des4, 1d
 &lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> Do something else&lt;/li>
 &lt;/ul>
-&lt;h2 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h2></description></item><item><title>An example preprint / working paper</title><link>https://KFulat.github.io/publication/preprint/</link><pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/publication/preprint/</guid><description>&lt;p>This work is driven by the results in my &lt;a href="https://KFulat.github.io/publication/conference-paper/">previous paper&lt;/a> on LLMs.&lt;/p>
+&lt;h2 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h2></description></item><item><title>PIC simulations of SNR shocks with a turbulent upstream medium</title><link>https://KFulat.github.io/publication/fulat_2023_pos/</link><pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/publication/fulat_2023_pos/</guid><description>&lt;!-- #
 &lt;div class="flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900">
 &lt;span class="pr-3 pt-1 text-primary-600 dark:text-primary-300">
 &lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z"/>&lt;/svg>
 &lt;/span>
-&lt;span class="dark:text-neutral-300">Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.&lt;/span>
+&lt;span class="dark:text-neutral-300">&lt;h1 id="click-the-_cite_-button-above-to-demo-the-feature-to-enable-visitors-to-import-publication-metadata-into-their-reference-management-software">Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/h1>
+&lt;h1 id="heading">&lt;/h1>
+&lt;/span>
 &lt;/div>
-&lt;p>Add the publication&amp;rsquo;s &lt;strong>full text&lt;/strong> or &lt;strong>supplementary notes&lt;/strong> here. You can use rich formatting such as including &lt;a href="https://docs.hugoblox.com/content/writing-markdown-latex/">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>An example journal article</title><link>https://KFulat.github.io/publication/journal-article/</link><pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/publication/journal-article/</guid><description>&lt;div class="flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900">
+#
+&lt;div class="flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900">
+&lt;span class="pr-3 pt-1 text-primary-600 dark:text-primary-300">
+&lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z"/>&lt;/svg>
+&lt;/span>
+&lt;span class="dark:text-neutral-300">&lt;h1 id="create-your-slides-in-markdown---click-the-_slides_-button-to-check-out-the-example">Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.&lt;/h1>
+&lt;h1 id="heading">&lt;/h1>
+&lt;/span>
+&lt;/div>
+# Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --></description></item><item><title>Pre-acceleration in the Electron Foreshock. II. Oblique Whistler Waves</title><link>https://KFulat.github.io/publication/morris_2023_apj/</link><pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/publication/morris_2023_apj/</guid><description>&lt;!--
+&lt;div class="flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900">
 &lt;span class="pr-3 pt-1 text-primary-600 dark:text-primary-300">
 &lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z"/>&lt;/svg>
 &lt;/span>
@@ -664,16 +689,35 @@ Parallel 4 : des6, after des4, 1d
 &lt;/span>
 &lt;span class="dark:text-neutral-300">Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.&lt;/span>
 &lt;/div>
-&lt;p>Add the publication&amp;rsquo;s &lt;strong>full text&lt;/strong> or &lt;strong>supplementary notes&lt;/strong> here. You can use rich formatting such as including &lt;a href="https://docs.hugoblox.com/content/writing-markdown-latex/">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>An example conference paper</title><link>https://KFulat.github.io/publication/conference-paper/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/publication/conference-paper/</guid><description>&lt;div class="flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900">
-&lt;span class="pr-3 pt-1 text-primary-600 dark:text-primary-300">
-&lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z"/>&lt;/svg>
-&lt;/span>
-&lt;span class="dark:text-neutral-300">Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span>
-&lt;/div>
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --></description></item><item><title>Electron Pre-acceleration Through Stochastic Shock Drift Acceleration at Intracluster Shocks</title><link>https://KFulat.github.io/publication/niemiec_2022_pos/</link><pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/publication/niemiec_2022_pos/</guid><description>&lt;!-- #
 &lt;div class="flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900">
 &lt;span class="pr-3 pt-1 text-primary-600 dark:text-primary-300">
 &lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z"/>&lt;/svg>
 &lt;/span>
-&lt;span class="dark:text-neutral-300">Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.&lt;/span>
+&lt;span class="dark:text-neutral-300">&lt;h1 id="click-the-_cite_-button-above-to-demo-the-feature-to-enable-visitors-to-import-publication-metadata-into-their-reference-management-software">Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/h1>
+&lt;h1 id="heading">&lt;/h1>
+&lt;/span>
 &lt;/div>
-&lt;p>Add the publication&amp;rsquo;s &lt;strong>full text&lt;/strong> or &lt;strong>supplementary notes&lt;/strong> here. You can use rich formatting such as including &lt;a href="https://docs.hugoblox.com/content/writing-markdown-latex/">code, math, and images&lt;/a>.&lt;/p></description></item></channel></rss>
+#
+&lt;div class="flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900">
+&lt;span class="pr-3 pt-1 text-primary-600 dark:text-primary-300">
+&lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z"/>&lt;/svg>
+&lt;/span>
+&lt;span class="dark:text-neutral-300">&lt;h1 id="create-your-slides-in-markdown---click-the-_slides_-button-to-check-out-the-example">Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.&lt;/h1>
+&lt;h1 id="heading">&lt;/h1>
+&lt;/span>
+&lt;/div>
+# Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --></description></item><item><title>Electron acceleration at shocks in supernova remnants</title><link>https://KFulat.github.io/project/snr_shocks/</link><pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/project/snr_shocks/</guid><description>&lt;div style='text-align: justify;'>
+The origin and acceleration mechanisms of cosmic rays, the energetic charged particles that reach the Earth's surface, are still an open question in modern astrophysics. Observations of radio emission, non-thermal X-rays and high-energy gamma rays from supernova remnants (SNRs) suggest the efficient acceleration of electrons in these objects. The particles are thought to gain energy at collisionless and non-relativistic shock waves that form during supernova explosions.&lt;br/>&lt;br/>
+&lt;p>The primary acceleration mechanism is Diffusive Shock Acceleration, where particles gain energy by crossing a shock multiple times. However, the particles must have Larmor radii comparable to the shock width to be able to participate in this process. This means that electrons must be pre-accelerated to suprathermal energies, which is known as the electron injection problem.&lt;br/>&lt;br/>&lt;/p>
+&lt;p>Particle dynamics in plasma is a complex phenomenon, and its study on electron kinetic scales requires the use of the particle-in-cell approach: first-principles simulations for collisionless plasma. Even with the power of modern supercomputers, these numerical experiments are computationally demanding.&lt;br/>&lt;br/>&lt;/p>
+&lt;p>The current focus of the project is on electron injection at oblique SNR shocks and the influence of pre-existing turbulence on electron dynamics at shocks. At oblique shocks, shock-reflected electrons form an extended region called the foreshock. They drive instabilities there, which leads to favourable conditions for efficient energy gain. The second part of the project involves studies of shocks propagating in turbulent media. We have found that pre-existing density fluctuations affect the physics of high-Mach-number shocks.&lt;/p>
+&lt;/div></description></item><item><title>Electron acceleration at shocks in merging galaxy clusters</title><link>https://KFulat.github.io/project/cluster_shocks/</link><pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/project/cluster_shocks/</guid><description>&lt;div style='text-align: justify;'>
+Radio relics are elongated synchrotron radio sources found in the outskirts of galaxy clusters. The relativistic electrons are thought to be accelerated at large-scale merger shocks, and are also considered to be possible sources of ultra-high-energy cosmic rays: they can have energies exceeding $E>10^{18} \\ \text{eV}$.&lt;br/>&lt;br/>
+&lt;p>Particles are accelerated at shocks via Diffusive Shock Acceleration (DSA), gaining energy while crossing a shock multiple times. This process only works from a certain initial energy, which is a more important constraint for electrons than for protons (ions) due to their smaller mass. This is known as the electron injection problem, and it is still a missing puzzle to complete the picture of DSA.&lt;br/>&lt;br/>&lt;/p>
+&lt;p>The aim of this project is to study the electron pre-acceleration conditions at galaxy clusters shocks using particle-in-cell simulations. This is the ab-intitio method for kinetic plasma theory, which resolves the microphysics of collisionless shocks. Current studies focus on Stochastic Shock Drift Acceleration (SSDA): an efficient mechanism of electron pre-acceleration. It requires the presence of multiscale turbulence in the shock transition, including shock ripples (shock front corrugations).&lt;/p>
+&lt;/div></description></item><item><title>Suprathermal electrons at interplanetary shocks</title><link>https://KFulat.github.io/project/electrons_ip_shocks/</link><pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate><guid>https://KFulat.github.io/project/electrons_ip_shocks/</guid><description>&lt;div style='text-align: justify;'>
+The stream of particles known as the solar wind spreads out within the heliosphere, creating shocks. These waves are collisionless, meaning that energy transfer between particles is via collective particle-waves interactions instead of binary Coulomb collisions. Interplanetary shocks (IP) originate from co-rotating interaction regions, areas where the fast solar wind rams into the slow one, and from coronal mass ejections, which are huge releases of solar plasma. The distribution function of the solar wind electrons is strongly influenced by these shocks.&lt;br/>&lt;br/>
+&lt;p>Suprathermal electrons have energies of about 70 eV to 2 keV and they follow the interplanetary magnetic field line as they propagate through the heliosphere. This means that their pitch-angle distributions contain information about the magnetic topology of the solar wind.&lt;br/>&lt;br/>&lt;/p>
+&lt;p>The project aimed to characterise and examine suprathermal electron populations associated with IP shocks. We used electron angle-angle distributions, measured in situ by the Cluster spacecrafts, during normal solar wind conditions, in the presence of whistler waves and during events associated with IP shocks. The shape of the distributions was examined using spectra of fitted spherical harmonics. This method is a quick way to characterise observed spectra and can be used for Solar Orbiter data, allowing us to study the evolution of the distributions during the propagation at an IP shock.&lt;/p>
+&lt;/div></description></item></channel></rss>
