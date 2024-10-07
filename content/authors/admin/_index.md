@@ -128,15 +128,15 @@ skills:
       - name: Fortran
         description: ''
         percent: 80
-        icon: Fortran
+        # icon: Fortran
       - name: Python
         description: ''
         percent: 100
-        icon: Python
+        # icon: Python
       - name: PIC simulations
         description: ''
         percent: 40
-        icon: PIC_icon
+        # icon: PIC_icon
   # - name: Hobbies
   #   color: '#eeac02'
   #   color_border: '#f0bf23'
@@ -196,9 +196,6 @@ skills:
 
 ## About Me
 
-I am a postdoctoral researcher at the Department of Astronomy at the University of Wisconsin-Madison in the group of
-Prof. Ellen Zweibel. I am also a member of Simons Collaboration on Extreme Electrodynamics of Compact Sources (SCEECS).
-My main interests revolve around investigating fundametal processes at the origin of the observed radiative and particle
-spectra from various astrophysical sources. I employ fully kinetic plasma simulations to explore the microphysics of
-these complex phenomena. My current focus is on extreme plasmas associated with compact objects and their
-environments.
+<div style='text-align: justify;'>
+I am a postdoctoral researcher at the Department of Astronomy at the <b>University of Wisconsin-Madison</b> in the group of Prof. Ellen Zweibel. I am also a member of <b>Simons Collaboration on Extreme Electrodynamics of Compact Sources (SCEECS)</b>. My main interests revolve around investigating fundametal processes at the origin of the observed radiative and particle spectra from various astrophysical sources. I employ fully kinetic plasma simulations to explore the microphysics of these complex phenomena. My current focus is on extreme plasmas associated with compact objects and their environments.
+</div>
